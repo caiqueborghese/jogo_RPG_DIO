@@ -1,0 +1,10 @@
+/Users/caiqueborghese/jogoRPG/bin/Debug/netcoreapp3.0/jogoRPG.deps.json
+/Users/caiqueborghese/jogoRPG/bin/Debug/netcoreapp3.0/jogoRPG.runtimeconfig.json
+/Users/caiqueborghese/jogoRPG/bin/Debug/netcoreapp3.0/jogoRPG.runtimeconfig.dev.json
+/Users/caiqueborghese/jogoRPG/bin/Debug/netcoreapp3.0/jogoRPG.dll
+/Users/caiqueborghese/jogoRPG/bin/Debug/netcoreapp3.0/jogoRPG.pdb
+/Users/caiqueborghese/jogoRPG/obj/Debug/netcoreapp3.0/jogoRPG.csprojAssemblyReference.cache
+/Users/caiqueborghese/jogoRPG/obj/Debug/netcoreapp3.0/jogoRPG.AssemblyInfoInputs.cache
+/Users/caiqueborghese/jogoRPG/obj/Debug/netcoreapp3.0/jogoRPG.AssemblyInfo.cs
+/Users/caiqueborghese/jogoRPG/obj/Debug/netcoreapp3.0/jogoRPG.dll
+/Users/caiqueborghese/jogoRPG/obj/Debug/netcoreapp3.0/jogoRPG.pdb
