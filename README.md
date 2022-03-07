@@ -5,4 +5,4 @@
 
 ### Olá! Bem vindo ao meu jogo de RPG desenvolvido em c#.
 
-- Jogo RPG baseado no Final Fantsy.
+- Jogo RPG Dungeon DIO.
