@@ -1,6 +1,7 @@
 # Desafio RPG Digital Innovation One.
 
-!(https://external-preview.redd.it/OnjWySLIosowrAk0IJowbxOnTJelQJfBLvrXvz5H4uM.jpg?width=640&crop=smart&auto=webp&s=9c21150cf5581f2cf535582848b33fe26096c484)
+![Unknown](https://user-images.githubusercontent.com/94426369/156959398-f89d3ee4-dc7f-4862-a32c-e6b2608db431.png)
+
 
 ### Olá! Bem vindo ao meu jogo de RPG desenvolvido em c#.
 
